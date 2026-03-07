@@ -1,0 +1,4 @@
+name: NAMOR
+include: .
+depend:
+flags: --cubical --guardedness -WnoUnsupportedIndexedMatch
