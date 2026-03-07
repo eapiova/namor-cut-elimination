@@ -30,7 +30,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: agda/cubical
-          ref: v0.9
+          ref: master
           path: cubical
 
       - name: Setup GHC
