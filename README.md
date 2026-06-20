@@ -23,4 +23,7 @@ agda NAMORIndex.agda
 
 ## Companion Paper
 
-R. Borsetto. *NAMOR: Cut Elimination for Position-Based Modal Sequents in Cubical Agda*. AiML 2026.
+R. Borsetto. *NAMOR: Cut Elimination for Position-Based Modal Sequents in Cubical Agda*. Preprint, 2026.
+
+A short presentation of the NAMOR library appears in:
+R. Borsetto, M. Zorzi. *NAMOR: a New Agda Library for Modal Extended Sequents*. OVERLAY 2025, CEUR Workshop Proceedings, Vol. 4142. <https://ceur-ws.org/Vol-4142/paper4.pdf>
